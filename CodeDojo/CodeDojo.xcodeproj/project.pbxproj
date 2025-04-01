@@ -20,6 +20,8 @@
 		5844648E2D9BAE27004DE0FB /* BattleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5844648D2D9BAE27004DE0FB /* BattleTests.swift */; };
 		584464912D9BAF9F004DE0FB /* Protocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 584464902D9BAF9F004DE0FB /* Protocols.swift */; };
 		584464942D9BAFED004DE0FB /* MockObjects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 584464932D9BAFED004DE0FB /* MockObjects.swift */; };
+		584464962D9BB1D7004DE0FB /* BattleStrategy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 584464952D9BB1D7004DE0FB /* BattleStrategy.swift */; };
+		584464982D9BB1FB004DE0FB /* BattleCommander.swift in Sources */ = {isa = PBXBuildFile; fileRef = 584464972D9BB1FB004DE0FB /* BattleCommander.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +58,8 @@
 		5844648D2D9BAE27004DE0FB /* BattleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BattleTests.swift; sourceTree = "<group>"; };
 		584464902D9BAF9F004DE0FB /* Protocols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protocols.swift; sourceTree = "<group>"; };
 		584464932D9BAFED004DE0FB /* MockObjects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockObjects.swift; sourceTree = "<group>"; };
+		584464952D9BB1D7004DE0FB /* BattleStrategy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BattleStrategy.swift; sourceTree = "<group>"; };
+		584464972D9BB1FB004DE0FB /* BattleCommander.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BattleCommander.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +119,8 @@
 				584464872D9BAD81004DE0FB /* CrimsonTiger.swift */,
 				584464892D9BADA5004DE0FB /* JadeDragon.swift */,
 				5844648B2D9BADD3004DE0FB /* Battlefield.swift */,
+				584464952D9BB1D7004DE0FB /* BattleStrategy.swift */,
+				584464972D9BB1FB004DE0FB /* BattleCommander.swift */,
 			);
 			path = CodeDojo;
 			sourceTree = "<group>";
@@ -297,6 +303,8 @@
 				5844648A2D9BADA5004DE0FB /* JadeDragon.swift in Sources */,
 				584464912D9BAF9F004DE0FB /* Protocols.swift in Sources */,
 				5844645E2D9BAC98004DE0FB /* CodeDojoApp.swift in Sources */,
+				584464962D9BB1D7004DE0FB /* BattleStrategy.swift in Sources */,
+				584464982D9BB1FB004DE0FB /* BattleCommander.swift in Sources */,
 				5844648C2D9BADD3004DE0FB /* Battlefield.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
