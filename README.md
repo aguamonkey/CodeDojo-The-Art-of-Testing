@@ -1,6 +1,6 @@
 # CodeDojo: The Art of Testing
 
-Welcome to **CodeDojo: The Art of Testing**, an innovative battleground where the timeless strategies of Sun Tzu’s *The Art of War* meet the precision of modern iOS testing. This project transforms testing into a disciplined art form—each test a tactical maneuver in our quest for robust, battle-ready applications.
+Welcome to **CodeDojo: The Art of Testing**, an innovative battleground where the timeless strategies of Sun Tzu’s *The Art of War* meet the precision of modern iOS testing. This project transforms testing into a disciplined art form, each test a tactical maneuver in our quest for robust, battle-ready applications.
 
 ## Project Overview
 
